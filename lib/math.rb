@@ -23,7 +23,7 @@ def modulo(num1, num2)
   return mod
 end
 
-def square_root(num)
-  sqr = Math.sqrt(num1.to_i)
+def square_root(num1)
+  sqr = Math.sqrt(num1)
   return sqr
 end
