@@ -15,7 +15,7 @@ end
 
 def multiplication(num1, num2)
   prod = num1.to_i * num2.to_i
-  return suprodm
+  return prod
 end
 
 def modulo(num1, num2)
